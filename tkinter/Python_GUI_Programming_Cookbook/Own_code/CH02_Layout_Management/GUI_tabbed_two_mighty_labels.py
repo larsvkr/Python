@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import scrolledtext
 
+
 colors = ["Blue", "Gold", "Red"]
 scrol_w = 50
 scrol_h = 3
